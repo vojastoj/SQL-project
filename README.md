@@ -1,1 +1,1 @@
-# SQL-project
+Download zip file Stojilkovic_projekatSQL.
